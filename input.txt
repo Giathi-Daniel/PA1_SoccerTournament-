@@ -1,0 +1,44 @@
+4 3 7
+brazil 3
+neymar
+pele
+romario
+argentina 3
+messi
+maradona
+batistuta
+portugal 4
+ronaldo
+figo
+silva
+fernandes
+mexico 3
+sanchez
+ochoa
+marquez
+brazil mexico
+ochoa 20
+neymar 25
+neymar 36
+sanchez 40
+ochoa 85
+end
+argentina portugal
+messi 10
+ronaldo 20
+messi 30
+ronaldo 40
+ronaldo 50
+end
+mexico portugal
+ronaldo 45
+marquez 85
+ronaldo 89
+end
+max_goal_player
+winner mexico portugal
+winner argentina portugal
+winner ksa usa
+winner argentina brazil
+hattrick
+champion
